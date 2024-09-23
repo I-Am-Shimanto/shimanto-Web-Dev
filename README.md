@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shimanto-web-dev" alt="shimanto-web-dev" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 - 🌱 I’m currently learning **Creative IT Institute**
 
 - 👨‍💻 All of my projects are available at [https://shimanto-web.github.io/portfolio/#](https://shimanto-web.github.io/portfolio/#)
