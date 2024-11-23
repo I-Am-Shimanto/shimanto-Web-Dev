@@ -1,7 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png"  alt="GitHub Profile Trophy"/>
+  <h2 align="center">Hi 👋, I'm Shimanto</h2>
+  
 </div>
-<h1 align="center">Hi 👋, I'm Shimanto</h1>
+
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimanto-web-dev&label=Profile%20views&color=0e75b6&style=flat" alt="shimanto-web-dev" /> </p>
@@ -15,7 +17,7 @@
 
 - 🌱 I’m currently learning **Creative IT Institute**
 
-- 👨‍💻 All of my projects are available at [https://shimanto-web.github.io/portfolio/#](https://shimanto-web.github.io/portfolio/#)
+- 👨‍💻 All of my projects are available at [https://github.com/shimanto-Web-Dev](https://github.com/shimanto-Web-Dev)
 
 - 💬 Ask me about **React**
 
