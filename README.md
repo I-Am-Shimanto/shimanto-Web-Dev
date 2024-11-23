@@ -32,4 +32,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shimanto-web-dev&show_icons=true&locale=en&layout=compact" alt="shimanto-web-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shimanto-web-dev&show_icons=true&locale=en" alt="shimanto-web-dev" /></p>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shimanto-Web-Dev" alt="GitHub Streak" /></a>
