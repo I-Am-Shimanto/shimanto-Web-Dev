@@ -38,4 +38,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shimanto-Web-Dev&show_icons=true&locale=en&layout=compact&theme=transparent" alt="modz2014" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shimanto-web-dev&show_icons=true&locale=en" alt="shimanto-web-dev" /></p>
