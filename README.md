@@ -10,6 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shimanto-Web-Dev" alt="GitHub Streak" /></a>
+
+
 - 🌱 I’m currently learning **Creative IT Institute**
 
 - 👨‍💻 All of my projects are available at [https://shimanto-web.github.io/portfolio/#](https://shimanto-web.github.io/portfolio/#)
@@ -32,4 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shimanto-web-dev&show_icons=true&locale=en&layout=compact" alt="shimanto-web-dev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shimanto-web-dev&show_icons=true&locale=en" alt="shimanto-web-dev" /></p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shimanto-Web-Dev" alt="GitHub Streak" /></a>
