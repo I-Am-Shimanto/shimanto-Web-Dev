@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Creative IT Institute**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shimanto-Web-Dev](https://github.com/shimanto-Web-Dev)
+- 👨‍💻 All of my projects are available at [shimanto-Web-Dev](https://github.com/shimanto-Web-Dev)
 
 - 💬 Ask me about **React**
 
