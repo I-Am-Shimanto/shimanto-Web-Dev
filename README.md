@@ -17,7 +17,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shimanto-web-dev&theme=dark&hide_border=false)
 
 
-
 <br/>
 <br/>
 
