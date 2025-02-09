@@ -4,7 +4,6 @@
   <h2 align="center">Hi 👋, I'm Shimanto</h2>
 </div>
 
-
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 # 💫 About Me:
